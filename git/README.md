@@ -1,1 +1,2 @@
-Git Folder
+# Git Folder
+## Bash, C, JS Folder
